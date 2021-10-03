@@ -21,6 +21,7 @@
   This number is not part of the list.
   
  */
+package Exercise06;
 import java.util.Scanner;
 
 
