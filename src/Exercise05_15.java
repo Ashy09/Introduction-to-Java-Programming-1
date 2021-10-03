@@ -18,7 +18,7 @@ Income                   or Qualifying       Separate       a House
 60000        11188       8165                11188          9852
 */
 
-
+package Exercise05;
 import java.util.Scanner;
 
 public class Exercise05_15 {
